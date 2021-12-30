@@ -42,3 +42,8 @@
   width: 70%;
   overflow: scroll;
 }
+
+.JokeList-spinner {
+  color: white;
+  text-align: center;
+}
